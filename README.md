@@ -47,6 +47,7 @@ C. Press R to start, Q to quit(按R可重新開始，按Q則離開遊戲）
 
 
 
+<img width="666" height="543" alt="unnamed" src="https://github.com/user-attachments/assets/e4c9af59-bb78-423b-bde8-7845fe5cd00f" />
 
 
 
