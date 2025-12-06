@@ -41,26 +41,26 @@
 
 ---
 5. 安裝流程與引入SFML
-<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" />
+<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" width="400"/>
 選older versions，之後點選2.4.2
 
-<img width="1221" height="706" alt="image" src="https://github.com/user-attachments/assets/be687e40-f02b-44b5-9ed9-4ca86c0ee897" />
+<img width="1221" height="706" alt="image" src="https://github.com/user-attachments/assets/be687e40-f02b-44b5-9ed9-4ca86c0ee897" width="400"/>
 然後下載GCC 4.9.2 TDM (SJLJ) - 64-bit這個版本
 
 
-<img width="1368" height="726" alt="image" src="https://github.com/user-attachments/assets/f6ba8a27-00dc-41b1-a3b1-fe72545a658d" />
+<img width="1368" height="726" alt="image" src="https://github.com/user-attachments/assets/f6ba8a27-00dc-41b1-a3b1-fe72545a658d" width="400"/>
 
 
 下載完後，在Dev C++裡面的工具裡面的編譯器選項裡的一般中，找到在連結器命令列中加入以下的命令，將-static-libgcc -lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window複製進去
 
-<img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/6ee49f98-8d89-4009-b03c-52a73c04b5d3" />
+<img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/6ee49f98-8d89-4009-b03c-52a73c04b5d3" width="400"/>
 
 
 然後在找到編譯器選項內的目錄，在libraries裡面將C:\SFML2\SFML-2.4.2\lib加入
 
 (我是將下載好的SFML放C，故前面為C:)
 
-<img width="1416" height="716" alt="image" src="https://github.com/user-attachments/assets/675ac9a5-0906-4642-8ab7-d1d50acc82da" />
+<img width="1416" height="716" alt="image" src="https://github.com/user-attachments/assets/675ac9a5-0906-4642-8ab7-d1d50acc82da" width="400"/>
 
 在編譯器選項中的目錄裡，在C++ Includes裡加入C:\SFML2\SFML-2.4.2\include
 
