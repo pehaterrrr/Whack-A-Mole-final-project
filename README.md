@@ -48,6 +48,9 @@
 然後下載GCC 4.9.2 TDM (SJLJ) - 64-bit這個版本
 
 
+
+
+
 <img width="603" height="662" alt="image" src="https://github.com/user-attachments/assets/16b0ea1b-d8fe-4f8e-b1dc-295f1edf4093" />
 下載完後，在Dev C++裡面的工具裡面的編譯器選項裡的一般中，找到在連結器命令列中加入以下的命令，將-static-libgcc -lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window複製進去
 
