@@ -58,12 +58,13 @@
 
 然後在找到編譯器選項內的目錄，在libraries裡面將C:\SFML2\SFML-2.4.2\lib加入
 
+(我是將下載好的SFML放C，故前面為C:)
 
 <img width="1416" height="716" alt="image" src="https://github.com/user-attachments/assets/675ac9a5-0906-4642-8ab7-d1d50acc82da" />
 
 在編譯器選項中的目錄裡，在C++ Includes裡加入C:\SFML2\SFML-2.4.2\include
 
-
+(我是將下載好的SFML放C，故前面為C:)
 
 
 
