@@ -53,11 +53,15 @@
 
 下載完後，在Dev C++裡面的工具裡面的編譯器選項裡的一般中，找到在連結器命令列中加入以下的命令，將-static-libgcc -lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window複製進去
 
-<img width="1343" height="719" alt="image" src="https://github.com/user-attachments/assets/2ae71bb9-d3c7-4cd5-8bf0-c3a1b79d6416" />
+<img width="1377" height="725" alt="image" src="https://github.com/user-attachments/assets/6ee49f98-8d89-4009-b03c-52a73c04b5d3" />
+
 
 然後在找到編譯器選項內的目錄，在libraries裡面將C:\SFML2\SFML-2.4.2\lib加入
 
 
+<img width="1416" height="716" alt="image" src="https://github.com/user-attachments/assets/675ac9a5-0906-4642-8ab7-d1d50acc82da" />
+
+在編譯器選項中的目錄裡，在C++ Includes裡加入C:\SFML2\SFML-2.4.2\include
 
 
 
