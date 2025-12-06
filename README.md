@@ -50,7 +50,7 @@
 
 
 
-<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/943dd0e2-6d65-4836-a306-2b9fcca29d87" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/943dd0e2-6d65-4836-a306-2b9fcca29d87" />
 
 下載完後，在Dev C++裡面的工具裡面的編譯器選項裡的一般中，找到在連結器命令列中加入以下的命令，將-static-libgcc -lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window複製進去
 
