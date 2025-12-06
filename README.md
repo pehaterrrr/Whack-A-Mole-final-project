@@ -48,12 +48,14 @@
 然後下載GCC 4.9.2 TDM (SJLJ) - 64-bit這個版本
 
 
-
-
 <img width="1368" height="726" alt="image" src="https://github.com/user-attachments/assets/f6ba8a27-00dc-41b1-a3b1-fe72545a658d" />
 
 
 下載完後，在Dev C++裡面的工具裡面的編譯器選項裡的一般中，找到在連結器命令列中加入以下的命令，將-static-libgcc -lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window複製進去
+
+<img width="1343" height="719" alt="image" src="https://github.com/user-attachments/assets/2ae71bb9-d3c7-4cd5-8bf0-c3a1b79d6416" />
+
+然後在找到編譯器選項內的目錄，在libraries裡面將C:\SFML2\SFML-2.4.2\lib加入
 
 
 
