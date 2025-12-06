@@ -41,9 +41,6 @@
 
 ---
 5. 安裝流程與引入SFML
-<img src="screenshots/start_screen.png" alt="Start Screen" width="400"/>
-
-
 <img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" width="400"/>
 選older versions，之後點選2.4.2
 
