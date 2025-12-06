@@ -41,7 +41,7 @@
 
 ---
 5. 安裝流程與引入SFML
-<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" />
+<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" width="200"/>
 選older version
 
 
