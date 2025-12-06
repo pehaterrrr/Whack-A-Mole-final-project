@@ -41,8 +41,11 @@
 
 ---
 5. 安裝流程與引入SFML
-<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" width="200"/>
-選older version
+<img width="1659" height="872" alt="image" src="https://github.com/user-attachments/assets/71bd8c95-e199-48b2-bcde-61f9f98fa5eb" />
+選older version，之後點選2.4.2
+
+<img width="1221" height="706" alt="image" src="https://github.com/user-attachments/assets/be687e40-f02b-44b5-9ed9-4ca86c0ee897" />
+然後下載GCC 4.9.2 TDM (SJLJ) - 64-bit這個版本
 
 
 
