@@ -1,6 +1,5 @@
 # Whack-A-Mole - Final Project
-Whack-A-Mole-final-project/
-│── README.md
+README.md
 使用 **Dev C++** 搭配 **SFML 函式庫** 製作的打地鼠遊戲期末專題報告
 
 ---
