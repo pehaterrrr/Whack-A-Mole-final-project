@@ -222,6 +222,9 @@ yaml
 <img width="1855" height="1064" alt="image" src="https://github.com/user-attachments/assets/3d029b6c-33a0-49a3-8787-cbe2f8c10c56" />
 
 
+<img width="1870" height="1041" alt="image" src="https://github.com/user-attachments/assets/08a0957b-7b67-458f-8022-712904c32bf3" />
+
+
 ---
 
 ## 10. Bonus 功能
