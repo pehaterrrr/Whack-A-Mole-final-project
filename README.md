@@ -216,10 +216,8 @@ yaml
 ---
 
 ## 9. 遊戲截圖（示意）
-> **註**：因 GitHub 限制，請自行放置 `screenshots/` 資料夾  
->  - start_screen.png  
->  - game_screen.png  
->  - result_screen.png  
+<img width="1769" height="1063" alt="image" src="https://github.com/user-attachments/assets/34dd6f67-dea8-46fd-bacc-47ad4e90fb37" />
+
 
 ---
 
