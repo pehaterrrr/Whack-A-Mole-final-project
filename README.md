@@ -230,13 +230,13 @@ sfml-window-d-2.dll
 5. 編譯 `main.cpp`  
 6. 執行 EXE  
 
----
 
 ## 8. 資源來源
 - 地鼠圖片：自製或公開授權素材  
 - 音效與動畫：自製或自由授權  
 
 ---
+
 
 ## 9. 遊戲截圖（示意）
 <img width="1769" height="1063" alt="image" src="https://github.com/user-attachments/assets/34dd6f67-dea8-46fd-bacc-47ad4e90fb37" />
@@ -257,7 +257,7 @@ sfml-window-d-2.dll
 - 即時離開按鈕  
 - 優化 UI 顯示  
 
----
+
 
 ## 11. 遊戲操作
 | 操作 | 功能 |
