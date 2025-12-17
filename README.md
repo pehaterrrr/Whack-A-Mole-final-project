@@ -226,8 +226,8 @@ README.md
    sfml-window-d-2.dll
    ```
  
-   5. 編譯 `main.cpp`  
-   6. 執行 EXE  
+5. 編譯 `main.cpp`  
+6. 執行 EXE  
 
 
 
