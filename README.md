@@ -231,24 +231,18 @@ sfml-window-d-2.dll
 6. 執行 EXE  
 
 
+
 ## 8. 資源來源
 - 地鼠圖片：自製或公開授權素材  
 - 音效與動畫：自製或自由授權  
 
----
-
-
 ## 9. 遊戲截圖（示意）
-<img width="1769" height="1063" alt="image" src="https://github.com/user-attachments/assets/34dd6f67-dea8-46fd-bacc-47ad4e90fb37" />
 
+<img src="https://github.com/user-attachments/assets/34dd6f67-dea8-46fd-bacc-47ad4e90fb37" width="400"/>
 
-<img width="1855" height="1064" alt="image" src="https://github.com/user-attachments/assets/3d029b6c-33a0-49a3-8787-cbe2f8c10c56" />
+<img src="https://github.com/user-attachments/assets/3d029b6c-33a0-49a3-8787-cbe2f8c10c56" width="400"/>
 
-
-<img width="1870" height="1041" alt="image" src="https://github.com/user-attachments/assets/08a0957b-7b67-458f-8022-712904c32bf3" />
-
-
----
+<img src="https://github.com/user-attachments/assets/08a0957b-7b67-458f-8022-712904c32bf3" width="400"/>
 
 ## 10. Bonus 功能
 - 可選 **Easy / Normal / Hard**  
@@ -257,24 +251,14 @@ sfml-window-d-2.dll
 - 即時離開按鈕  
 - 優化 UI 顯示  
 
-
-
 ## 11. 遊戲操作
 | 操作 | 功能 |
 |------|------|
 | W / A / S / D | 上 / 左 / 下 / 右 移動 |
-| 空白鍵        | 鎚擊洞口 |
-| R             | 遊戲結束後重新回到選單 |
-| Q             | 遊戲結束後退出 |
+| 空白鍵 | 鎚擊洞口 |
+| R | 遊戲結束後重新回到選單 |
+| Q | 遊戲結束後退出 |
 | 滑鼠點擊 Exit | 立即退出遊戲 |
-
----
-
-**作者**: 歐彥呈 & 林宇謙  
-**專案名稱**: Whack-A-Mole Final Project  
-
-
-
 
 
 
