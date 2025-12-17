@@ -204,9 +204,31 @@ yaml
 2. 將 **SFML 2.4.2** 設定加入 Dev C++  
    - include 路徑：`SFML/include`  
    - lib 路徑：`SFML/lib`  
-3. 確保 `arial.ttf` 與所有圖片在專案目錄  
-4. 編譯 `main.cpp`  
-5. 執行 EXE  
+3. 確保 `arial.ttf` 與所有圖片在專案目錄
+4. ## ⚠️ SFML DLL 檔案說明（重要）
+
+本專案使用 **SFML 2.4.2（DLL 動態連結）**。
+
+請在執行程式前，將 `sfml-dll/` 資料夾中的所有 `.dll` 檔案  
+複製到 **執行檔（.exe）所在資料夾**，否則程式將無法正常啟動。
+
+需使用的 DLL 檔案如下：
+
+```text
+openal32.dll
+sfml-audio-2.dll
+sfml-audio-d-2.dll
+sfml-graphics-2.dll
+sfml-graphics-d-2.dll
+sfml-network-2.dll
+sfml-network-d-2.dll
+sfml-system-2.dll
+sfml-system-d-2.dll
+sfml-window-2.dll
+sfml-window-d-2.dll
+ 
+5. 編譯 `main.cpp`  
+6. 執行 EXE  
 
 ---
 
